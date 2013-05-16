@@ -6,3 +6,4 @@ Please add comments or submit issues if you have additional feature requests! I 
   * Possibility to remove individual tabs from the options
   * Implement onchange listeners for all input fields to autosave changes and remove the save button
   * Performance improvements
+  * Find a way to not create existing tabs rather than removing and reopening them
