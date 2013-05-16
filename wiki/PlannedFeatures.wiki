@@ -1,5 +1,5 @@
 #labels Phase-Design
-#Currently identified features which are planned to be implemented in future versions
+# Currently identified features which are planned to be implemented in future versions
 
 = Feature wishlist=
 Please add comments or submit issues if you have additional feature requests! I am happy to review and implement them (if possible).
