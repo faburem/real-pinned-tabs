@@ -4,3 +4,4 @@
   * automatic detection of http/https
   * automatic detection of duplicated tabs (make sure to specify different full URLs if you intend to do that)
   * Option to automatically add newly pinned tabs
+  * Wildcard (*) support
