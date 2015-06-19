@@ -1,0 +1,9 @@
+# Feature wishlist #
+Please add comments or submit issues if you have additional feature requests! I am happy to review and implement them (if possible).
+
+  * ~~Option to autosave all pinned tabs for next startup~~ done!
+  * ~~Possibility to remove individual tabs from the options~~ done!
+  * ~~Implement onchange listeners for all input fields to autosave changes and remove the save button~~ implemented but doesn't work as expected.. the save button is still there
+  * ~~Performance improvements~~ implemented!
+    * ~~Started code refactoring~~
+  * ~~Find a way to not create existing tabs rather than removing and reopening them~~ implemented!

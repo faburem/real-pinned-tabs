@@ -1,0 +1,6 @@
+  * compatible with the "On startup > Continue were I left off." setting
+  * compatible with synchronized tabs from other devices
+  * automatic detection of http/https
+  * automatic detection of duplicated tabs (make sure to specify different full URLs if you intend to do that)
+  * Option to automatically add newly pinned tabs
+  * Wildcard (
